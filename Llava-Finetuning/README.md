@@ -13,7 +13,6 @@ This repository provides a detailed guide on fine-tuning the Large Language-and-
 - [Model Evaluation](#model-evaluation)
 - [Conclusion](#conclusion)
 - [Acknowledgments](#acknowledgments)
-- [License](#license)
 
 ## Introduction
 
