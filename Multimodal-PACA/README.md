@@ -19,12 +19,12 @@ Access the model in my HuggingFace Space: [TVRRaviteja/Multimodal-PACA](https://
 
 ## Introduction
 
-Multimodal-PACA stands for Multimodal Personality Adaptive Conversational AI. It is designed to interact with users through both text and speech, adapting its responses based on the user's personality traits. The application utilizes OpenAI's GPT models and Whisper for speech recognition, alongside personality prediction algorithms to enhance user interaction.
+Multimodal-PACA stands for Multimodal Personality Adaptive Conversational AI. It is designed to interact with users through both text and speech, adapting its responses based on the user's personality traits. The application utilizes `Llama-2-counsel-finetuned`,`Llama3-8B`, OpenAI's `GPT-3.5-Turbo` and `GPT-4` models models and `Whisper` for ASR and TTS.
 
 ## Features
 
 - **Personality Prediction**: Analyzes user input to predict personality traits based on the Big Five model usig GPT-4.
-- **Speech Synthesis**: Converts text responses into natural-sounding speech using OpenAI's Whisper API.
+- **Speech Synthesis**: Converts text responses into natural-sounding speech using OpenAI's Whisper.
 - **Multimodal Interaction**: Supports both text and audio inputs for a seamless user experience.
 
 ## Installation
