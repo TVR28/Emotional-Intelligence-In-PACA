@@ -4,7 +4,8 @@ Multimodal-PACA is a sophisticated conversational AI application designed to ada
 
 Access the model in my HuggingFace Space: [TVRRaviteja/Multimodal-PACA](https://huggingface.co/spaces/TVRRaviteja/Multimodal-PACA)
 
-Note: TTS has not been deployed. Will be deployed soon.
+`Note`: TTS has not been deployed. Will be deployed soon.
+
 ![image](https://github.com/user-attachments/assets/3fe17a80-8959-4ba8-ad43-f680ab7f5931)
 
 
