@@ -4,6 +4,9 @@ This repository contains a Jupyter Notebook for fine-tuning the Whisper model on
 
 Access the finetuned whisper model on Hindi language on my HugingFace space: [TVRRaviteja/whisper-finetuned-hi](https://huggingface.co/TVRRaviteja/whisper-finetuned-hi/tree/main)
 
+![image](https://github.com/user-attachments/assets/c8610193-b75c-4360-b23a-75b741480a2a)
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
