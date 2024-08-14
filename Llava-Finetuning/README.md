@@ -29,6 +29,14 @@ LLaVA exemplifies the fusion of language and vision in AI, leveraging a sophisti
 - Ensure sufficient memory (40-80GB) and storage for datasets and model checkpoints.
 - Familiarity with Python and machine learning frameworks like PyTorch.
 
+Tools
+- `PyTorch`
+- `Llava`
+- `deepspeed`
+- `wandb`
+- `trasnformers`
+- `LoRA`
+
 ## Fine-Tuning with DeepSpeed
 
 The notebook [llava-finetune.ipynb](https://github.com/brevdev/notebooks/blob/main/llava-finetune.ipynb) demonstrates how to fine-tune the LLaVA model using DeepSpeed. DeepSpeed enables efficient distributed training, reducing time and resource consumption.
