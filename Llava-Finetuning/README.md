@@ -2,6 +2,9 @@
 
 This repository provides a detailed guide on fine-tuning the Large Language-and-Vision Assistant (LLaVA) model using various methods and tools, including DeepSpeed and custom datasets. LLaVA is a multimodal model that integrates language and vision, offering advanced capabilities for tasks that require understanding and generating both text and images.
 
+![image](https://github.com/user-attachments/assets/3b01fcdc-463e-4a50-bcef-af67cab4f083)
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
