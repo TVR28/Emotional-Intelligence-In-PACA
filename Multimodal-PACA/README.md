@@ -27,10 +27,10 @@ Multimodal-PACA stands for Multimodal Personality Adaptive Conversational AI. It
 To set up Multimodal-PACA, follow these steps:
 
 1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/TVR28/Emotional-Intelligence-In-PACA.git
-   cd multimodal-paca
-   ```
+```bash
+git clone https://github.com/TVR28/Emotional-Intelligence-In-PACA.git
+cd multimodal-paca
+```
 2. Install Dependencies:
 Ensure you have Python installed. Then, install the required packages:
   ```bash
