@@ -80,6 +80,3 @@ The integration of language and vision in models like LLaVA represents a signifi
 
 ## Acknowledgments
 This project is based on resources from Brevdev, WandB, and Medium. Special thanks to the authors and contributors for their insights and guidance.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
