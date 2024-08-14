@@ -2,6 +2,8 @@
 
 This repository contains a Jupyter Notebook for fine-tuning the Whisper model on the Common Voice dataset for multilingual automatic speech recognition (ASR). The notebook is designed to be run on Google Colab with a T4 GPU and includes steps for data preparation, model training, evaluation, and deployment using Gradio.
 
+Access the finetuned whisper model on Hindi language on my HugingFace space: [TVRRaviteja/whisper-finetuned-hi](https://huggingface.co/TVRRaviteja/whisper-finetuned-hi/tree/main)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -11,6 +13,7 @@ This repository contains a Jupyter Notebook for fine-tuning the Whisper model on
 - [Evaluation](#evaluation)
 - [Deployment](#deployment)
 - [Acknowledgments](#acknowledgments)
+- [References](#References)
 - [License](#license)
 
 ## Introduction
@@ -58,6 +61,9 @@ After fine-tuning, the model is pushed to the Hugging Face Hub and deployed usin
 ## Acknowledgments
 
 This project is based on the [Hugging Face blog post](https://huggingface.co/blog/fine-tune-whisper) on fine-tuning Whisper for multilingual ASR. Special thanks to the authors and contributors for providing detailed guidance and resources.
+
+## References
+
 
 ## License
 
