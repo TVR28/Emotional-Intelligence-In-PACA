@@ -1,6 +1,6 @@
 # Multimodal-PACA: Personality Adaptive Conversational AI
 
-Multimodal-PACA is a sophisticated conversational AI application designed to adapt to user personalities through multimodal interactions. It leverages advanced natural language processing (NLP) and speech synthesis technologies to provide personalized and engaging conversations.
+Multimodal-PACA is a sophisticated conversational AI application designed to adapt to user personalities through multimodal interactions(voice and text). It leverages finetuned Llama-2 model(same as carebot) and OpenAI Whisper for ASR to provide personalized and empathetic responses via speech.
 
 Access the model in my HuggingFace Space: [TVRRaviteja/Multimodal-PACA](https://huggingface.co/spaces/TVRRaviteja/Multimodal-PACA)
 
