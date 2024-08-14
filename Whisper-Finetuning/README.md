@@ -17,6 +17,8 @@ This repository contains a Jupyter Notebook for fine-tuning the Whisper model on
 
 Whisper is a state-of-the-art model for automatic speech recognition developed by OpenAI. This project demonstrates how to fine-tune the Whisper model using the Hugging Face Transformers library on the Common Voice dataset, which includes multilingual audio samples.
 
+![image](https://github.com/user-attachments/assets/8bc48470-2546-443c-8c62-4cb102c1ae8e)
+
 ## Setup and Installation
 
 To run the notebook, you need to have access to Google Colab. The following packages will be installed as part of the setup:
