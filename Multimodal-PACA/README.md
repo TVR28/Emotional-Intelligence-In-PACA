@@ -4,9 +4,10 @@ Multimodal-PACA is a sophisticated conversational AI application designed to ada
 
 Access the model in my HuggingFace Space: [TVRRaviteja/Multimodal-PACA](https://huggingface.co/spaces/TVRRaviteja/Multimodal-PACA)
 
-`Note`: TTS has not been deployed. Will be deployed soon.
+![image](https://github.com/user-attachments/assets/190afb6c-6616-478f-a3f2-672ef9882c7c)
 
-![image](https://github.com/user-attachments/assets/3fe17a80-8959-4ba8-ad43-f680ab7f5931)
+
+`Note`: TTS has not been deployed. Will be deployed soon.
 
 
 ## Table of Contents
@@ -22,6 +23,9 @@ Access the model in my HuggingFace Space: [TVRRaviteja/Multimodal-PACA](https://
 ## Introduction
 
 Multimodal-PACA stands for Multimodal Personality Adaptive Conversational AI. It is designed to interact with users through both text and speech, adapting its responses based on the user's personality traits. The application utilizes `Llama-2-counsel-finetuned`,`Llama3-8B`, OpenAI's `GPT-3.5-Turbo` and `GPT-4` models models and `Whisper` for ASR and TTS.
+
+![image](https://github.com/user-attachments/assets/3fe17a80-8959-4ba8-ad43-f680ab7f5931)
+
 
 ## Features
 
