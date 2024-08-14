@@ -2,6 +2,11 @@
 
 Multimodal-PACA is a sophisticated conversational AI application designed to adapt to user personalities through multimodal interactions. It leverages advanced natural language processing (NLP) and speech synthesis technologies to provide personalized and engaging conversations.
 
+Access the model in my HuggingFace Space: [TVRRaviteja/Multimodal-PACA](https://huggingface.co/spaces/TVRRaviteja/Multimodal-PACA)
+
+![image](https://github.com/user-attachments/assets/3fe17a80-8959-4ba8-ad43-f680ab7f5931)
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
