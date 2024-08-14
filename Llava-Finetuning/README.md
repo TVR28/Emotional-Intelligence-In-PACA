@@ -41,7 +41,7 @@ Tools
 
 ## Fine-Tuning with DeepSpeed
 
-The notebook [llava-finetune.ipynb](https://github.com/brevdev/notebooks/blob/main/llava-finetune.ipynb) demonstrates how to fine-tune the LLaVA model using DeepSpeed. DeepSpeed enables efficient distributed training, reducing time and resource consumption.
+The notebook [llava-finetune.ipynb](https://github.com/TVR28/Emotional-Intelligence-In-PACA/blob/main/Llava-Finetuning/llava_finetuned.ipynb) demonstrates how to fine-tune the LLaVA model using DeepSpeed. DeepSpeed enables efficient distributed training, reducing time and resource consumption.
 
 ### Key Steps:
 1. **Environment Setup**: Install necessary packages and configure DeepSpeed.
