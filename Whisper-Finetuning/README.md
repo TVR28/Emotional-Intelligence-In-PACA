@@ -63,7 +63,7 @@ After fine-tuning, the model is pushed to the Hugging Face Hub and deployed usin
 This project is based on the [Hugging Face blog post](https://huggingface.co/blog/fine-tune-whisper) on fine-tuning Whisper for multilingual ASR. Special thanks to the authors and contributors for providing detailed guidance and resources.
 
 ## References
-
+[LLM-Based Post ASR Speech Emotion Recognition Challenge](https://github.com/YuanGongND/llm_speech_emotion_challenge/tree/main)
 
 ## License
 
