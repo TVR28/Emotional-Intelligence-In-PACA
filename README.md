@@ -55,4 +55,4 @@ If you wish to contribute to the project, please follow these guidelines:
 - Submit a pull request with a detailed description of your changes.
 
 ## License
-This project is licensed under the [specify license] license. See the LICENSE file for more details.
+This project is licensed under the [MIT license] license. See the [LICENSE](LICENSE) file for more details.
