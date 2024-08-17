@@ -47,7 +47,7 @@ Access the Multimodal AI Assistant [here](https://colab.research.google.com/driv
 
 
 ## Contributing
-I would love your feedback on any implementations, updations or suggestions on the methods and techniques.
+I'm happy to receive feedbacks or any questions on any implementations, updations or suggestions on the methods and techniques.
 
 If you wish to contribute to the project, please follow these guidelines:
 - Fork the repository.
